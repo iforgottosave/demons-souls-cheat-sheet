@@ -1,4 +1,4 @@
-# Demon's Souls Cheat Sheet
+# Demon's Souls Remasterd Cheat Sheet
 
 To view the cheat sheet [click here](http://iforgottosave.github.io/demons-souls-cheat-sheet/)
 
