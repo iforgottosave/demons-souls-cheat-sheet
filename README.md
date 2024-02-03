@@ -1,11 +1,11 @@
+# This is still W.I.P. since 03/02/2024. This banner will be removed when all adaptations are done and all changes between the original and remake version have been implemented.
 # Demon's Souls Remasterd Cheat Sheet
 
 To view the cheat sheet [click here](https://laerositus.github.io/demons-souls-remastered-cheat-sheet/)
-To view the original cheat sheet http://iforgottosave.github.io/demons-souls-cheat-sheet/
 
-The foundation of this guide was based on [Dark Souls 3 Cheat Sheet](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) created by [Zachary Kjellberg](https://github.com/ZKjellberg/) and [Demon's Souls Cheat sheet](https://github.com/iforgottosave/demons-souls-cheat-sheet) created by [iforgottosave](https://github.com/iforgottosave).
-
+This guide was based on [Demon's Souls Cheat sheet](https://github.com/iforgottosave/demons-souls-cheat-sheet) created by [iforgottosave](https://github.com/iforgottosave).
 Since this repo is forked from the original Demon's Souls Cheat Sheet and only updated from it, it comprises of the same setup, hence following the original authors' guide.
+
 ## Contribution Guide
 
 If you are interested in contributing to this guide, submit an Issue Report or a Pull Request
