@@ -1,6 +1,6 @@
 # Demon's Souls Remasterd Cheat Sheet
 
-To view the cheat sheet [click here](http://iforgottosave.github.io/demons-souls-cheat-sheet/)
+To view the original cheat sheet http://iforgottosave.github.io/demons-souls-cheat-sheet/
 
 The foundation of this guide was based on [Dark Souls 3 Cheat Sheet](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) created by [Zachary Kjellberg](https://github.com/ZKjellberg/) and [Demon's Souls Cheat sheet](https://github.com/iforgottosave/demons-souls-cheat-sheet) created by [iforgottosave](https://github.com/iforgottosave).
 
