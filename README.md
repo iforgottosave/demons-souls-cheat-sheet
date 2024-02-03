@@ -6,6 +6,8 @@ This guide was based on [Demon's Souls Cheat sheet](https://github.com/iforgotto
 Since this repo is forked from the original Demon's Souls Cheat Sheet and only updated from it, it comprises of the same setup, hence following the original authors' guide.
 All credits for the original guides go to the original [owner ](https://github.com/iforgottosave) and the maker of the [Dark Souls 3 Cheat Sheet](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) [Zachary Kjellberg](https://github.com/ZKjellberg/)
 
+*This is still a work-in-progress. The playthrough tab has not been updated to include the changes to the remake*
+
 ## Contribution Guide
 
 If you are interested in contributing to this guide, submit an Issue Report or a Pull Request
