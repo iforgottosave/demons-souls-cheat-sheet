@@ -1,5 +1,5 @@
 # This is still W.I.P. since 03/02/2024. This banner will be removed when all adaptations are done and all changes between the original and remake version have been implemented.
-# Demon's Souls Remasterd Cheat Sheet
+# Demon's Souls Remake Cheat Sheet
 
 To view the cheat sheet [click here](https://laerositus.github.io/demons-souls-remastered-cheat-sheet/)
 
